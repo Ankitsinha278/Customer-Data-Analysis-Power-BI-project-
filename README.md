@@ -62,25 +62,25 @@ The dataset contains customer-level transactional data with over 1,000 records.
 ## 📊 Dashboard Preview
 
 ### 🔹 Gender-wise Customer Analysis
-![Gender Analysis](images/Gender-Wise.png)
+![Gender Analysis](Images/Gender-Wise.png)
 **Insight:** Female customers contribute a higher share of total purchases and revenue compared to male customers.
 
 ---
 
 ### 🔹 Category-wise Purchase Analysis
-![Category Analysis](images/Category-Wise.png)
+![Category Analysis](Images/Category-Wise.png)
 **Insight:** Clothing and Cosmetics are the top-performing categories in terms of quantity sold and revenue generated.
 
 ---
 
 ### 🔹 Age Group & Revenue Analysis
-![Age Group Analysis](images/AgeCategory-Wise.png)
+![Age Group Analysis](Images/AgeCategory-Wise.png)
 **Insight:** Adults are the most active shoppers and generate the highest revenue, followed by Senior Citizens.
 
 ---
 
 ### 🔹 Payment Method Analysis
-![Payment Method Analysis](images/Payment_Method.png)
+![Payment Method Analysis](Images/Payment_Method.png)
 **Insight:** Cash is the most preferred payment method across most shopping malls, while credit cards are more common in premium malls.
 
 ---
