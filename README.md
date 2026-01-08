@@ -80,7 +80,7 @@ The dataset contains customer-level transactional data with over 1,000 records.
 ---
 
 ### 🔹 Payment Method Analysis
-![Payment Method Analysis](Images/Payment_Method.png)
+![Payment Method Analysis](Images/Payment Method.png)
 **Insight:** Cash is the most preferred payment method across most shopping malls, while credit cards are more common in premium malls.
 
 ---
